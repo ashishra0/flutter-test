@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.red,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: MyHomePage(title: 'Flutter Release 0.1.6'),
+      home: MyHomePage(title: 'Flutter Release 0.1.7'),
     );
   }
 }
@@ -58,7 +58,7 @@ class _MyHomePageState extends State<MyHomePage> {
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementCounter,
         tooltip: 'Increment',
-        backgroundColor: Colors.yellowAccent,
+        backgroundColor: Colors.blue,
         child: Icon(Icons.add),
       ),
     );

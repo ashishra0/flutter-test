@@ -1,6 +1,7 @@
 on:
   push:
-    tags: -'v*'
+    tags:
+      - 'v*'
 name: Test, Build and Release apk
 jobs:
   build:
