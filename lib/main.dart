@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.red,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: MyHomePage(title: 'Flutter Release Demo'),
+      home: MyHomePage(title: 'Flutter Release 0.1.6'),
     );
   }
 }
