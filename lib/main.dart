@@ -58,7 +58,7 @@ class _MyHomePageState extends State<MyHomePage> {
       floatingActionButton: FloatingActionButton(
         onPressed: _incrementCounter,
         tooltip: 'Increment',
-        backgroundColor: Colors.red,
+        backgroundColor: Colors.yellowAccent,
         child: Icon(Icons.add),
       ),
     );
